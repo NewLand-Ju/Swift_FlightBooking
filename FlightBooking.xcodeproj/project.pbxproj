@@ -12,6 +12,7 @@
 		04DCAED52010E78600544394 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04DCAED32010E78600544394 /* Main.storyboard */; };
 		04DCAED72010E78600544394 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04DCAED62010E78600544394 /* Assets.xcassets */; };
 		04DCAEDA2010E78600544394 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04DCAED82010E78600544394 /* LaunchScreen.storyboard */; };
+		04DCAEE22010E7AB00544394 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04DCAEE12010E7AB00544394 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04DCAED62010E78600544394 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04DCAED92010E78600544394 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04DCAEDB2010E78600544394 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04DCAEE12010E7AB00544394 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../../../Downloads/background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		04DCAECE2010E78600544394 /* FlightBooking */ = {
 			isa = PBXGroup;
 			children = (
+				04DCAEE12010E7AB00544394 /* background.jpg */,
 				04DCAECF2010E78600544394 /* AppDelegate.swift */,
 				04DCAED12010E78600544394 /* ViewController.swift */,
 				04DCAED32010E78600544394 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04DCAEDA2010E78600544394 /* LaunchScreen.storyboard in Resources */,
+				04DCAEE22010E7AB00544394 /* background.jpg in Resources */,
 				04DCAED72010E78600544394 /* Assets.xcassets in Resources */,
 				04DCAED52010E78600544394 /* Main.storyboard in Resources */,
 			);
